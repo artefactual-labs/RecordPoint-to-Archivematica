@@ -3,4 +3,4 @@ Convert RecordPoint [Records365](https://www.recordpoint.com/records365/) metada
 
 ---
 
-The samples in the `/files` directory are sourced from https://file-examples.com/. They are not published with a license but "All files are free to download and use."
+The sample files in the `/data` directory are sourced from https://file-examples.com/. They are not published with a license but "All files are free to download and use."
