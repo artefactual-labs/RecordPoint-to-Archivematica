@@ -62,7 +62,7 @@ def parse_rp_exports(export_directory):
             # Create metadata.csv file for writing RecordPoint values.
             with open(transfer_dir + '/metadata/metadata.csv', mode='w') as archivematica_csv_file:
                 csv_writer = csv.writer(archivematica_csv_file, delimiter=',')
-                csv_writer.writerow(['dc.title', 'dc.identifier', 'dc.identifier', 'dc.creator', 'dc.contributor', 'dc.date', 'dc.format', 'dc.description', 'record category', 'vital record', 'content type name', 'library name', 'site name', 'location', 'content version', 'file size', 'file type', 'created date', 'last modified', 'streamhash'])
+                csv_writer.writerow(['filename', 'dc.title', 'dc.identifier', 'dc.identifier', 'dc.creator', 'dc.contributor', 'dc.date', 'dc.format', 'dc.description', 'record category', 'vital record', 'content type name', 'library name', 'site name', 'location', 'content version', 'file size', 'file type', 'created date', 'last modified', 'streamhash'])
 
                 for row in csv_reader:
                     if row["Title"] in files:
@@ -72,7 +72,7 @@ def parse_rp_exports(export_directory):
                         present in the transfer.
                         '''
 
-                        csv_writer.writerow(['objects/' + row["Title"], row["ItemNumber"], row["UniqueId"], row["Author"], row["Editor"], row["TrueDocumentDate"], row["Format"], row["DocumentType"], row["RecordCategory"], row["VitalRecord"], row["ContentTypeName"], row["LibraryName"], row["SiteName"], row["Location"], row["ContentVersion"], row["File_x0020_Size"], row["File_x0020_Type"], row["Created_x0020_Date"], row["Last_x0020_Modified"], row["StreamHash"]])
+                        csv_writer.writerow(['objects/' + row["Title"], row["Title"], row["ItemNumber"], row["UniqueId"], row["Author"], row["Editor"], row["TrueDocumentDate"], row["Format"], row["DocumentType"], row["RecordCategory"], row["VitalRecord"], row["ContentTypeName"], row["LibraryName"], row["SiteName"], row["Location"], row["ContentVersion"], row["File_x0020_Size"], row["File_x0020_Type"], row["Created_x0020_Date"], row["Last_x0020_Modified"], row["StreamHash"]])
 
                         # Move SharePoint file to AM transfer directory
                         shutil.copy(export_dir + row["Title"], transfer_dir + row["Title"])
@@ -90,8 +90,8 @@ if __name__ == "__main__":
     `python rm-2-am.py data/sharepoint-exports/2021-03-02_10-24`
     """
 
-    # TODO: add a `-d` flag and delete the sharepoint-export directory if it
-    # is set to TRUE.
+    # TODO: add a `-d` flag and, if set, delete the sharepoint-export
+    # directory after archivematica-transfer directory creation is completed.
 
     try:
         parse_rp_exports(str(sys.argv[1]))
