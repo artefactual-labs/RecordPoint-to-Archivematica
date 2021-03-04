@@ -25,7 +25,7 @@ This table shows those RecordPoint CSV fields that are matched to a Dublin Core 
 | ContentVersion| the number of revisions made to the file | | 2 |
 | Author| creator of the file | Creator | Lévêque, François | 
 | ContentTypeName| used to determine retention period | | Human Resources |
-| Created_x0020_Date| file creation date | Date | 2018-02-27T13:18:00Z |
+| Created_x0020_Date| file creation date |  | 2018-02-27T13:18:00Z |
 | Editor| last person to have made changes to the file | Contributor | Earle, Patricia |
 | File_x0020_Size| file size in bytes | | 20000 |
 | File_x0020_Type| file extension | | xls
@@ -35,7 +35,7 @@ This table shows those RecordPoint CSV fields that are matched to a Dublin Core 
 | StreamHash| Microsoft-specific hash value | | 0x02C91E257671B45A08F343AA3A1C115A0EF12EBAF2 |
 | UniqueId | the file's universally unique identifier | Identifier | ef1eac74-9ecf-4f33-b795-19258bcd139a |
 | DocumentType| the file's purpose | Description | Budget |
-| TrueDocumentDate| last modified or pre-SharePoint creation date, whichever is applicable | | 2018-04-11T11:08:00Z | 
+| TrueDocumentDate| last modified or pre-SharePoint creation date, whichever is applicable | Date | 2018-04-11T11:08:00Z | 
 | Title | filename assigned by author | Title | file example XLS 100.xls |
 
 NOTE: The sample files used in the [`/data/2021-03-02_10-24`](https://github.com/artefactual-labs/RP-2-AM/tree/main/data/2021-03-02_10-24) directory are sourced from https://file-examples.com/. They are not published with a license but "All files are free to download and use."
