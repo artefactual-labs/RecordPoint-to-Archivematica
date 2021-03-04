@@ -1,0 +1,16 @@
+/var/archivematica/sharedDirectory/currentlyProcessing/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/
+├── file example AVI 480 750kB.avi
+├── file example JPG 100kB.jpg
+├── file example MOV 480 700kB.mov
+├── file example PNG 500kB.png
+├── file example PPT 250kB.ppt
+├── file example WAV 1MG.wav
+├── file example XLS 100.xls
+├── file example XLSX 100.xlsx
+├── file sample 100kB.doc
+├── file sample 100kB.docx
+├── file sample 100kB.rtf
+├── file sample 150kB.pdf
+└── file_sample.html
+
+0 directories, 13 files

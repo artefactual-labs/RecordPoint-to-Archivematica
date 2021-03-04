@@ -1,0 +1,91 @@
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (11a3efed-7a82-4baa-bb87-fe46859de674) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_sample_150kB.pdf
+Command output: fmt/18
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_sample_150kB.pdf identified as a Acrobat PDF 
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (167d8f48-d6fd-4f03-944b-934c9a5e6c4c) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_XLS_100.xls
+Command output: fmt/61
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_XLS_100.xls identified as a Excel 97 Workbook
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (37279081-bdd7-4c8a-a048-3a389d420607) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_sample.html
+Command output: fmt/96
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_sample.html identified as a HTML pre-2.0
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (540b952c-acd5-4e1f-9003-a78f78688d5c) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_JPG_100kB.jpg
+Command output: fmt/43
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_JPG_100kB.jpg identified as a JPEG 
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (735f8373-b2c8-4073-878f-9f7597e71004) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_WAV_1MG.wav
+Command output: fmt/141
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_WAV_1MG.wav identified as a Waveform Audio (PCMWAVEFORMAT)
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (8be728c7-e0cf-4e6b-8b21-ab5f6df1ca3f) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_sample_100kB.doc
+Command output: fmt/40
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_sample_100kB.doc identified as a Microsoft Word Document 97-2003
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (97eb6fe6-29f9-4a0a-902a-9f78c4244ce3) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_AVI_480_750kB.avi
+Command output: fmt/5
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_AVI_480_750kB.avi identified as a Generic AVI
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (9bc625ad-3366-4a2b-bd18-dc414093651a) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_sample_100kB.rtf
+Command output: fmt/45
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_sample_100kB.rtf identified as a RTF 1.0-1.4
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (a1f8d70b-64e2-4cc3-8aca-95f3ea7450b1) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_PPT_250kB.ppt
+Command output: fmt/126
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_PPT_250kB.ppt identified as a Powerpoint 97-2002
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (c9665ab2-f96a-49b0-ad77-2fbb858ab781) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_MOV_480_700kB.mov
+Command output: x-fmt/384
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_MOV_480_700kB.mov identified as a Generic MOV
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (d70bd472-5d74-4d09-a9fc-19c503aeafa4) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_sample_100kB.docx
+Command output: fmt/412
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_sample_100kB.docx identified as a Microsoft Word for Windows 2007+
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (d8759cf1-fd80-451e-96bf-d82d623b9a14) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_PNG_500kB.png
+Command output: fmt/12
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_PNG_500kB.png identified as a PNG 
+IDCommand: Identify using Siegfried 1.8.0
+IDCommand UUID: 9402ad69-f045-4d0a-8042-9c990645910a
+IDTool: Siegfried
+IDTool UUID: 454df69d-5cc0-49fc-93e4-6fbb6ac659e7
+File: (e037c6ed-5c0d-4fc9-8c66-178207ab84df) /var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_XLSX_100.xlsx
+Command output: fmt/214
+/var/archivematica/sharedDirectory/watchedDirectories/workFlowDecisions/selectFormatIDToolTransfer/sharepoint-transfer-1-dce5e4da-4f17-4911-ab3d-4b14fea9220c/objects/file_example_XLSX_100.xlsx identified as a Excel for Windows 2007+
