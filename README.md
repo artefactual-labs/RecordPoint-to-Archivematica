@@ -43,7 +43,7 @@ The following table shows those RecordPoint CSV fields that are matched to a Dub
 
 Below is a snippet showing the AIP METS file that was produced by running the rp-2-am.py script on the sample RecordPoint metadata and SharePoint export in this repository. You can also see the full METS XML file [here](https://github.com/artefactual-labs/RP-2-AM/blob/main/data/archivematica-aips/sharepoint-transfer-1-1c83a14e-ab63-4c1b-b875-4405ec3fef65/data/METS.1c83a14e-ab63-4c1b-b875-4405ec3fef65.xml).
 
-![RecordPoint metadata in METS](recordpoint-metadata-in-mets.png)
+![RecordPoint metadata in METS](images/recordpoint-metadata-in-mets.png)
 
 NOTE: The sample files used in the [`/data/sharepoint-exports/2021-03-02_10-24`](https://github.com/artefactual-labs/RP-2-AM/tree/main/data/sharepoint-exports/2021-03-02_10-24) directory are sourced from https://file-examples.com/. They are not published with a license but "All files are free to download and use."
 
@@ -57,7 +57,7 @@ The Power Automate scripts were developed by the IT staff of Artefactual's clien
 
 The following sequence diagram illustrates how the Power Automate scripts are used to trigger the disposition of SharePoint files to a SFTP transfer site, starting with identifying the files ready for transfer via the RecordPoint tool.
 
-![SharePoint to Archivematica workflow](sharepoint-to-archivematica-workflow.png)
+![SharePoint to Archivematica workflow](images/sharepoint-to-archivematica-workflow.png)
 
 
 
