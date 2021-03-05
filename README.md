@@ -64,4 +64,4 @@ The following sequence diagram illustrates how the Power Automate scripts are us
 ### RP-2-AM script and Automation Tools integration
 Archivematica [Automation Tools](https://github.com/artefactual/automation-tools) is a set of Python scripts that are designed to automate the processing of transfers in an Archivematica pipeline. This project adds the [rp-2-am.py](https://github.com/artefactual-labs/RP-2-AM/blob/main/rp-2-am.py) script to this set to automate the conversion of RecordPoint/SharePoint exports to Archivematica-ready transfers.
 
-
+The script can also be run in stand-alone mode. Provide the relative path of the SharePoint export directory as a parameter. For example: `python rm-2-am.py data/sharepoint-exports/2021-03-02_10-24`
