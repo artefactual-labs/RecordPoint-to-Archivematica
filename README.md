@@ -57,7 +57,7 @@ The Power Automate scripts were developed by the IT staff of Artefactual's clien
 
 The following sequence diagram illustrates how the Power Automate scripts are used to trigger the disposition of SharePoint files to a SFTP transfer site, starting with identifying the files ready for transfer via the RecordPoint tool.
 
-![SharePoint to Archivematica workflow](images/sharepoint-to-archivematica-workflow_v3.png)
+![SharePoint to Archivematica workflow](images/sharepoint-to-archivematica-workflow_v4.png)
 
 
 
